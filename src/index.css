@@ -1,0 +1,23 @@
+
+@import "tailwindcss";
+@import "swiper/css";
+@import "swiper/css/pagination";
+@import "swiper/css/navigation";
+
+
+body,html{
+  background-color:white;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../public/Inter/Inter-VariableFont_opsz\,wght.ttf");
+}
+
+
+@media (max-width:480px) {
+
+  
+
+  
+}
