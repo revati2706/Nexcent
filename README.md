@@ -52,7 +52,7 @@ src/
 
 ## Deployment
 
-Currently local only / Add Netlify or Vercel link after deployment.
+Netlify:https://nexcent-landing-page-web.netlify.app/
 
 
 ## License
