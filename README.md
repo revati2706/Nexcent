@@ -48,7 +48,7 @@ src/
  ├── components/
  ├── assets/
  ├── App.jsx
- └── index.js
+ └── main.jsx
 
 ## Deployment
 

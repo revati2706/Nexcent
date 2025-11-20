@@ -25,12 +25,7 @@ const Nav = () => {
         </ul>
 
         {/* Desktop Buttons */}
-        <div className="hidden md:flex gap-5 font-semibold">
-          <button className="text-[#66BB69] hover:underline transition">Login</button>
-          <button className="bg-[#66BB69] py-2 px-5 text-white rounded-lg border border-[#66BB69] hover:bg-white hover:text-[#66BB69] transition">
-            Sign Up
-          </button>
-        </div>
+        
 
         {/* Hamburger Icon */}
         <div
@@ -60,14 +55,7 @@ const Nav = () => {
           <li className="hover:text-[#66BB69] transition">FAQ</li>
         </ul>
 
-        <div className="flex flex-col items-center gap-6 mt-10">
-          <button className="text-[#66BB69] hover:underline transition font-semibold">
-            Login
-          </button>
-          <button className="bg-[#66BB69] py-2 px-6 text-white rounded-lg border border-[#66BB69] hover:bg-white hover:text-[#66BB69] transition font-semibold">
-            Sign Up
-          </button>
-        </div>
+        
       </div>
     </nav>
   );
